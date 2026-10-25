@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Prince Atul
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hi%20there%2C%20I'm%20Prince%20Atul&fontSize=38&fontColor=00C6FF&fontAlignY=55&animation=fadeIn" alt="Hi there, I'm Prince Atul">
 
 ### Full Stack Developer building practical, real-world applications
 
