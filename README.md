@@ -5,12 +5,14 @@
 ### Full-stack developer focused on building reliable, useful software
 
 <a href="mailto:princeatul2592@gmail.com?subject=Hello%20Prince%20Atul">
-  <img src="https://img.shields.io/badge/Email-princeatul2592%40gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Prince Atul">
+  <img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Prince Atul">
 </a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/princeatulsyntexerror">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Atul-SyntexError">GitHub</a>
+<a href="https://linkedin.com/in/princeatulsyntexerror">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/Atul-SyntexError">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
