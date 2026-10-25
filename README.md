@@ -1,10 +1,12 @@
 <div align="center">
 
-# Prince Atul
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Prince+Atul;Full-Stack+Developer" alt="Hi, I'm Prince Atul">
 
 ### Full-stack developer focused on building reliable, useful software
 
-<a href="mailto:princeatul2592@gmail.com">Email</a>
+<a href="mailto:princeatul2592@gmail.com?subject=Hello%20Prince%20Atul">
+  <img src="https://img.shields.io/badge/Email-princeatul2592%40gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Prince Atul">
+</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://linkedin.com/in/princeatulsyntexerror">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
